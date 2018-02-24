@@ -1,0 +1,8 @@
+name: ProfileCache
+version: ${project.version}
+main: co.aikar.profilecache.Profilecache
+prefix: ProfileCache
+load: STARTUP
+authors: [Aikar]
+description: Enables automatic Profile Caching for Mojang API calls for Paper MC Servers
+website: https://github.com/aikar/ProfileCache
